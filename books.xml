@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-< ?xml-stylesheet href="my css.css" type="text/css"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
 <books>
 <heading>文創書房</heading>
 <book>
 <title>我愛程式設計</title>
 <author>賴玉旻</author>
-<pubilsher>聯合文創</pubilsher>
-
+<publisher>聯合文創</publisher>
+<price>$450</price>
 </book>
 <book>
 <title>我愛電腦繪圖</title>
 <author>賴玉旻</author>
-<pubilsher>聯合文創</pubilsher>
+<publisher>聯合文創</publisher>
+<price>$550</price>
 </book>
 </books>
